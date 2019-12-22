@@ -1,0 +1,14 @@
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\bin\Debug\netcoreapp2.1\CelebritiesSystem.deps.json
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\bin\Debug\netcoreapp2.1\CelebritiesSystem.runtimeconfig.json
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\bin\Debug\netcoreapp2.1\CelebritiesSystem.runtimeconfig.dev.json
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\bin\Debug\netcoreapp2.1\CelebritiesSystem.dll
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\bin\Debug\netcoreapp2.1\CelebritiesSystem.pdb
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.csprojAssemblyReference.cache
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.RazorAssemblyInfo.cache
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.RazorAssemblyInfo.cs
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.AssemblyInfoInputs.cache
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.AssemblyInfo.cs
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.dll
+C:\Users\Asaf\source\repos\CelebritiesSystem\CelebritiesSystem\CelebritiesSystem\obj\Debug\netcoreapp2.1\CelebritiesSystem.pdb

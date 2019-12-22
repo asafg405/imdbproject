@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IMDBActors/.vs/IMDBActors/v15/Server/sqlite3
+/CelebritiesSystem/.vs/CelebritiesSystem/v15/Server/sqlite3

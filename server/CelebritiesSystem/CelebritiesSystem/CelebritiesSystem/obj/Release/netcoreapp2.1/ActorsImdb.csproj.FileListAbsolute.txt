@@ -1,0 +1,14 @@
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\ActorsImdb.deps.json
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\ActorsImdb.runtimeconfig.json
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\ActorsImdb.runtimeconfig.dev.json
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\ActorsImdb.dll
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\ActorsImdb.pdb
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.csprojAssemblyReference.cache
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.csproj.CoreCompileInputs.cache
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.RazorAssemblyInfo.cache
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.RazorAssemblyInfo.cs
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.AssemblyInfoInputs.cache
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.AssemblyInfo.cs
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.RazorTargetAssemblyInfo.cache
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.dll
+C:\Users\Asaf\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\ActorsImdb.pdb
